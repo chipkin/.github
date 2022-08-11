@@ -23,7 +23,7 @@ Most common programing lanauage examples
 - GoLang
   - [BACnet Server Example GoLang](https://github.com/chipkin/BACnetServerExampleGolang) - A basic BACnet IP server example written in GoLang using the CAS BACnet Stack.
 - Python
-  - [[BACnet Server Example Python](https://github.com/chipkin/BACnetServerExamplePython) - A basic BACnet IP server example written in GoLang using the CAS BACnet Stack.
+  - [BACnet Server Example Python](https://github.com/chipkin/BACnetServerExamplePython) - A basic BACnet IP server example written in Python using the CAS BACnet Stack.
 
 Hardware examples
 
