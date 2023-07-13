@@ -6,7 +6,7 @@ Chipkin is a building and industrial automation protocol expert. We sell, suppor
 
 ## CAS BACnet Stack 
 
-Chipkin’s BACnet Stack (CAS BACnet Stack) is a software library that allows you to add a native BACnet interface to your embedded devices or applications. The BACnet stack supports both BACnet server (Field device, power meter, gas detector, etc.) and BACnet client (HMI, Utilities, data loggers, etc.). More information about the CAS BACnet Stack can be found here https://store.chipkin.com/services/stacks/bacnet-stack
+Chipkin’s BACnet Stack ([CAS BACnet Stack](https://store.chipkin.com/services/stacks/bacnet-stack)) is a software library that allows you to add a native BACnet interface to your embedded devices or applications. The BACnet stack supports both BACnet server (Field device, power meter, gas detector, etc.) and BACnet client (HMI, Utilities, data loggers, etc.). More information about the CAS BACnet Stack can be found here https://store.chipkin.com/services/stacks/bacnet-stack
 
 See the [repositories tab](https://github.com/orgs/chipkin/repositories) for a full list of CAS BACnet Stack examples in many different programming languages 
 
