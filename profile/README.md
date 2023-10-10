@@ -10,7 +10,7 @@ Chipkin’s BACnet Stack ([CAS BACnet Stack](https://store.chipkin.com/services/
 
 See the [repositories tab](https://github.com/orgs/chipkin/repositories) for a full list of CAS BACnet Stack examples in many different programming languages 
 
-Most common programing language examples 
+Most common programming language examples 
 
 - C++
   - [BACnet Server example CPP](https://github.com/chipkin/BACnetServerExampleCPP) - A basic BACnet IP server example written in C++ using the CAS BACnet Stack.
@@ -30,6 +30,7 @@ Most common programing language examples
 
 Hardware examples
 
-- [ESP32-BACnetServerExample](https://github.com/chipkin/ESP32-BACnetServerExample) - Generate a simple BACnet server with one Multi-state-value (MSV) object. The MSV shows the current mode of the built-in LED. 
+- [ESP32-BACnetServerExample](https://github.com/chipkin/ESP32-BACnetServerExample) - A simple BACnet server with one Multi-state-value (MSV) object. The MSV shows the current mode of the built-in LED.
+- [RP2040-BACnetServerExample](https://github.com/chipkin/RP2040-BACnetServerExample) - A simple BACnet server with one Multi-state-value (MSV) object. The MSV shows the current mode of the built-in LED.
 
 See the [repositories tab](https://github.com/orgs/chipkin/repositories) for a full list of examples.
