@@ -13,8 +13,8 @@ See the [repositories tab](https://github.com/orgs/chipkin/repositories) for a f
 Most common programming language examples 
 
 - C++
-  - [BACnet Server example CPP](https://github.com/chipkin/BACnetServerExampleCPP) - A basic BACnet IP server example written in C++ using the CAS BACnet Stack.
-  - [BACnet Client example CPP](https://github.com/chipkin/BACnetClientExampleCPP) - A basic BACnet IP client example written in C++ using the CAS BACnet Stack.  
+  - [BACnet Server example CPP](https://github.com/chipkin/BACnetServerExampleCPP) - A BACnet IP server example written in C++ using the CAS BACnet Stack.
+  - [BACnet Client example CPP](https://github.com/chipkin/BACnetClientExampleCPP) - A BACnet IP client example written in C++ using the CAS BACnet Stack.  
 - CSharp
   - [BACnet Server Example CSharp](https://github.com/chipkin/BACnetServerExampleCSharp) - A basic BACnet IP server example written in CSharp using the CAS BACnet Stack.
   - [BACnet Client Example CSharp](https://github.com/chipkin/BACnetClientExampleCSharp) - A basic BACnet IP client example written in CSharp using the CAS BACnet Stack.
