@@ -34,4 +34,11 @@ Hardware examples
 - [ESP32-BACnetServerExample](https://github.com/chipkin/ESP32-BACnetServerExample) - A simple BACnet server with one Multi-state-value (MSV) object. The MSV shows the current mode of the built-in LED.
 - [RP2040-BACnetServerExample](https://github.com/chipkin/RP2040-BACnetServerExample) - A simple BACnet server with one Multi-state-value (MSV) object. The MSV shows the current mode of the built-in LED.
 
+Specific feature examples
+
+- [BACnetSecureConnectExampleCPP](https://github.com/chipkin/BACnetSecureConnectExampleCPP) - Demo of BACnet Secure Connect (BACnet SC).
+- [BACnetElevatorExample](https://github.com/chipkin/BACnetElevatorExample) - Example of a BACnet IP server using Elevator group, Elevator, Escalator, Lift, Double deck lift objects types, and Alarms and Events, intrinsic event, and fault algorithms
+- [BACnetVirtualDevicesServerExampleCPP](https://github.com/chipkin/BACnetVirtualDevicesServerExampleCPP) - BACnet Virtual Device Server Example written in C++.
+- [BACnetServerExampleProprietaryPropertyCSharp](https://github.com/chipkin/BACnetServerExampleProprietaryPropertyCSharp) - Demonstrating how to add Vendor Proprietary Property and object types
+
 See the [repositories tab](https://github.com/orgs/chipkin/repositories) for a full list of examples.
