@@ -15,12 +15,12 @@ Most common programming language examples
 - C++
   - [BACnet Server example CPP](https://github.com/chipkin/BACnetServerExampleCPP) - A BACnet IP server example written in C++ using the CAS BACnet Stack.
   - [BACnet Client example CPP](https://github.com/chipkin/BACnetClientExampleCPP) - A BACnet IP client example written in C++ using the CAS BACnet Stack.  
+- TypeScript/NodeJS
+  - [BACnet Server Example in TypeScript](https://github.com/chipkin/BACnetServerExampleTypeScript) - A BACnet IP server example written in TypeScript using the CAS BACnet Stack.
+  - [BACnet Client Example NodeJS](https://github.com/chipkin/BACnetClientExampleNodeJS) - A basic BACnet IP client example written in NodeJS using the CAS BACnet Stack.
 - CSharp
   - [BACnet Server Example CSharp](https://github.com/chipkin/BACnetServerExampleCSharp) - A basic BACnet IP server example written in CSharp using the CAS BACnet Stack.
   - [BACnet Client Example CSharp](https://github.com/chipkin/BACnetClientExampleCSharp) - A basic BACnet IP client example written in CSharp using the CAS BACnet Stack.
-- Node JS
-  - [BACnet Server Example NodeJS](https://github.com/chipkin/BACnetServerExampleNodeJS) - A basic BACnet IP server example written in NodeJS using the CAS BACnet Stack.
-  - [BACnet Client Example NodeJS](https://github.com/chipkin/BACnetClientExampleNodeJS) - A basic BACnet IP client example written in NodeJS using the CAS BACnet Stack.
 - GoLang
   - [BACnet Server Example GoLang](https://github.com/chipkin/BACnetServerExampleGolang) - A basic BACnet IP server example written in GoLang using the CAS BACnet Stack.
 - Python 3.x
