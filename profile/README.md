@@ -25,9 +25,6 @@ Most common programming language examples
   - [BACnet Server Example GoLang](https://github.com/chipkin/BACnetServerExampleGolang) - A basic BACnet IP server example written in GoLang using the CAS BACnet Stack.
 - Python 3.x
   - [BACnet Server Example Python 3.x](https://github.com/chipkin/BACnetServerExamplePython) - A basic BACnet IP server example written in Python 3.x using the CAS BACnet Stack.
-- Python 2.7 (Obsolete)
-  - [BACnet Server Example Python 2.7](https://github.com/chipkin/BACnetServerExamplePython2.7) - A basic BACnet IP server example written in Python 2.7 (obsolete) using the CAS BACnet Stack.
-  - [BACnet Client Example Python 2.7](https://github.com/chipkin/BACnetClientExamplePython2.7) - A basic BACnet IP client example written in Python 2.7 (obsolete) using the CAS BACnet Stack.
 
 Hardware examples
 
