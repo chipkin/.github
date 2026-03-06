@@ -30,6 +30,7 @@ Most common programming language examples
   - [BACnet Client Example in RUST](https://github.com/chipkin/BACnetClientExampleRUST) - A basic BACnet IP client example written in RUST using the CAS BACnet Stack.
 - Java
   - [BACnet Server Example in Java](https://github.com/chipkin/BACnetServerExampleJava) - A basic BACnet IP server example written in Java using the CAS BACnet Stack.
+  - [BACnet Client Example in Java](https://github.com/chipkin/BACnetClientExampleJava) - A basic BACnet IP client example written in Java using the CAS BACnet Stack.
 
 Hardware examples
 
