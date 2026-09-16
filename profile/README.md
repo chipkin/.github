@@ -14,7 +14,7 @@ See the [repositories tab](https://github.com/orgs/chipkin/repositories) for a f
 
 ### BACnet profile examples
 
-The [CAS BACnet Stack](https://store.chipkin.com/services/stacks/bacnet-stack) supports every standardized device profile in ASHRAE 135-2024 Annex L, and there is one example repository per profile. Pick the profile your device claims, then the language you build in. "Ask" means the example hasn't been built yet for that language - [contact Chipkin](https://www.chipkin.com/contact/) if you need one.
+The [CAS BACnet Stack](https://store.chipkin.com/services/stacks/bacnet-stack) supports every standardized device profile in ASHRAE 135-2024 Annex L, and there is one example repository per profile. Pick the profile your device claims, then the language you build in. "Ask" means the example hasn't been built yet for that language - [contact Chipkin](https://store.chipkin.com/contact-us) if you need one.
 
 #### Controllers (Annex L.4)
 
@@ -44,8 +44,8 @@ The [CAS BACnet Stack](https://store.chipkin.com/services/stacks/bacnet-stack) s
 
 | Profile | C++ | Node.js | C# | Rust | Python |GO |
 |---|---|---|---|---|---|---|
-| **B-LD** Lighting Device | [B-LD-CPP](https://github.com/chipkin/BACnetProfileExample-B-LD-CPP) | Ask | Ask | Ask | Ask |Ask |Ask |
-| **B-LS** Lighting Supervisor | [B-LS-CPP](https://github.com/chipkin/BACnetProfileExample-B-LS-CPP) | Ask | Ask | Ask | Ask |Ask |Ask |
+| **B-LD** Lighting Device | [B-LD-CPP](https://github.com/chipkin/BACnetProfileExample-B-LD-CPP) | Ask | Ask | Ask | Ask |Ask |
+| **B-LS** Lighting Supervisor | [B-LS-CPP](https://github.com/chipkin/BACnetProfileExample-B-LS-CPP) | Ask | Ask | Ask | Ask |Ask |
 
 #### Elevator controllers (Annex L.13)
 
